@@ -8,4 +8,4 @@ exercises/clippy/Cargo.lock
 .idea
 .vscode
 *.iml
-temp_*
+temp_*.DS_Store
